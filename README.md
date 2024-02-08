@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
 ## Introduction
-
+Hello I am a senior at the University of Tennessee studying Geography with a Geospacial Focus. This account servese as my platform to help me post and work on any class project I may recive.
 
 <!--
 **BrycenHarris/BrycenHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +18,6 @@ Here are some ideas to get you started:
 
 
 ## Projects
-
-
-## Demos
+Last semester I worked on a GIS Mappiong Project that located all teh Food City store and showcased how close they were to each other. This project also showed the average medium household income and average population of each county. All of these factors caem together to help form a idea on where a new Food City should be place in knoxville.
 
 ![](https://brand.utk.edu/wp-content/uploads/2019/02/University-HorizLeftLogo-RGB.jpg)
